@@ -1,0 +1,12 @@
+{"mode": "train", "name": "Gold", "stock_code": ["GC=F"], "method": "a2c", "net": "lstm", "backend": "tensorflow", "start_date": "2017-01-01", "end_date": "2018-12-31", "lr": 0.1, "discount_factor": 1.0, "balance": 50000000, "num_epoches": 50}
+[GC=F] RL:a2c NET:lstm LR:0.1 DF:1.0 
+[GC=F][Epoch 01/50] Epsilon:0.4000 #Expl.:91/244 #Buy:25 #Sell:30 #Hold:189 #Stocks:0 PV:48,145,988 Loss:7.020594 ET:67.4459
+[GC=F][Epoch 02/50] Epsilon:0.3918 #Expl.:103/244 #Buy:44 #Sell:46 #Hold:154 #Stocks:0 PV:42,198,821 Loss:6.962036 ET:20.7915
+[GC=F][Epoch 03/50] Epsilon:0.3837 #Expl.:102/244 #Buy:49 #Sell:45 #Hold:150 #Stocks:20438 PV:44,217,049 Loss:6.945325 ET:20.6688
+[GC=F][Epoch 04/50] Epsilon:0.3755 #Expl.:103/244 #Buy:52 #Sell:52 #Hold:140 #Stocks:37877 PV:48,479,513 Loss:6.940529 ET:20.9124
+[GC=F][Epoch 05/50] Epsilon:0.3673 #Expl.:75/244 #Buy:52 #Sell:50 #Hold:142 #Stocks:20798 PV:44,299,160 Loss:6.939861 ET:21.4807
+[GC=F][Epoch 06/50] Epsilon:0.3592 #Expl.:84/244 #Buy:53 #Sell:50 #Hold:141 #Stocks:35691 PV:45,681,348 Loss:6.939195 ET:30.2619
+[GC=F][Epoch 07/50] Epsilon:0.3510 #Expl.:77/244 #Buy:47 #Sell:46 #Hold:151 #Stocks:36753 PV:47,040,263 Loss:6.939536 ET:23.8512
+[GC=F][Epoch 08/50] Epsilon:0.3429 #Expl.:84/244 #Buy:48 #Sell:46 #Hold:150 #Stocks:37189 PV:47,598,936 Loss:6.939806 ET:27.8597
+[GC=F][Epoch 09/50] Epsilon:0.3347 #Expl.:75/244 #Buy:42 #Sell:41 #Hold:161 #Stocks:38059 PV:48,712,615 Loss:6.941205 ET:30.4286
+{"mode": "predict", "name": "Gold", "stock_code": ["GC=F"], "method": "a2c", "net": "lstm", "backend": "tensorflow", "start_date": "2023-11-25", "end_date": "2023-12-31", "lr": 0.1, "discount_factor": 1.0, "balance": 50000000, "num_epoches": 50}

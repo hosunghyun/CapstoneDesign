@@ -1,0 +1,1 @@
+{"mode": "test", "name": "Gold", "stock_code": ["GC=F"], "method": "a2c", "net": "lstm", "backend": "tensorflow", "start_date": "2023-11-25", "end_date": "2023-12-31", "lr": 0.1, "discount_factor": 1.0, "balance": 50000000, "num_epoches": 50}

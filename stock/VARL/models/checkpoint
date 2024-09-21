@@ -1,0 +1,2 @@
+model_checkpoint_path: "Gold_a2c_lstm_policy.mdl"
+all_model_checkpoint_paths: "Gold_a2c_lstm_policy.mdl"
