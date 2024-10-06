@@ -31,3 +31,4 @@
 
 
 ## 구현 결과물
+![화면 캡처 2024-10-06 134102](https://github.com/user-attachments/assets/acab3d42-afe0-4149-b141-a7f1d2fb08ab)
