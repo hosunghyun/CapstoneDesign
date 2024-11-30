@@ -1,4 +1,4 @@
-# CapstoneDesign
+![image](https://github.com/user-attachments/assets/686c33ca-05a3-4087-94b7-0c01771cca5f)# CapstoneDesign
 ## 개요
 ■ 강화학습을 활용한 주식분석
 
@@ -38,7 +38,18 @@
 ## 내용
 
 ### 구현 기능
+![image](https://github.com/user-attachments/assets/dff2d1ab-f99a-41a0-ba30-555345483704)
+![image](https://github.com/user-attachments/assets/870db26d-6c72-481f-b4b8-3e940c4f65dc)
+![image](https://github.com/user-attachments/assets/0894f0af-3a38-48d5-9e08-f0e6c10a9dd4)
+![image](https://github.com/user-attachments/assets/b305363a-e338-4541-8041-2c4524db90f7)
+![image](https://github.com/user-attachments/assets/33340f52-2b57-4689-bf32-538b7f139867)
+![image](https://github.com/user-attachments/assets/a200944a-59c9-4af4-a5a3-b29bc5c52626)
+![image](https://github.com/user-attachments/assets/5f1c826c-c49f-4fa3-9f83-69dfc213f2e3)
+
+
 
 
 ## 구현 결과물
-![화면 캡처 2024-10-06 134102](https://github.com/user-attachments/assets/acab3d42-afe0-4149-b141-a7f1d2fb08ab)
+![image](https://github.com/user-attachments/assets/a672f5e0-971a-4164-8921-6b95ab3172e1)
+
+
